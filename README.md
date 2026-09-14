@@ -158,6 +158,7 @@ detects the name of a run configuration in a Markdown file, it will give you the
 
 Now, let's take a closer look at the actual code!
 
+
 ## Task 1: Understanding some Java syntax
 
 Take a few minutes to read through this code and take guesses at what different pieces of
